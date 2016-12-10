@@ -45,9 +45,9 @@
 	}
 
 	&--small-screen-minus-b-margin {
-		margin-bottom: -1rem;
+		margin-bottom: 0.5rem;
 		@mixin atMedium {
-			margin-bottom: 0;
+			margin-bottom: 1rem;
 		}
 	}
 }
